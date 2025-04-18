@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "newsnowdata",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "db78fca7-4de5-4df4-b271-3a519c38935a",
+      "database_name": "newsnowdata"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
